@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>BombardierForms Package</comment>
+<entry key="createdBy">root</entry>
+<entry key="name">bombardier-forms-content</entry>
+<entry key="created">2015-12-04T16:14:54.229-0200</entry>
+<entry key="groupId">conexio</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">Conexio</entry>
+<entry key="description">Maven Multimodule project for BombardierForms.</entry>
+<entry key="artifactId">bombardier-forms-content</entry>
+<entry key="path">/etc/packages/Conexio/bombardier-forms-content.zip</entry>
+</properties>
